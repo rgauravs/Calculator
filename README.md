@@ -5,16 +5,19 @@ A simple, responsive, and user-friendly web-based calculator that performs basic
 
 # 📌 Features
 ✅ Perform addition, subtraction, multiplication, and division.
+
 ✅ Responsive design for desktop and mobile devices.
+
 ✅ User-friendly interface with real-time calculations.
+
 ✅ Built using HTML, CSS, and JavaScript.
 
 # 🛠 Technologies Used
 Frontend: HTML, CSS, JavaScript
 
-Styling: CSS (or Bootstrap/Tailwind CSS)
+Styling: CSS
 
-Logic: Vanilla JavaScript for handling calculations
+Logic: JavaScript for handling calculations
 
 ## Screenshot
 
